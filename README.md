@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaledmk20&show_icons=true&locale=en" alt="khaledmk20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaledmk20&" alt="khaledmk20" /></p>
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
