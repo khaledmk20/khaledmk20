@@ -20,5 +20,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaledmk20&" alt="khaledmk20" /></p>
 
-![snake animation](https://github.com/khaledmk20/khaledmk20/blob/output/github-contribution-grid-snake2.svg)
-
