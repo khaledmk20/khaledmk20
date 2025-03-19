@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from Egypt</h3>
 <div align="center"> <img height="200" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg"  /> </div>
 
-- 👨‍💻 All of my projects are available at [https://khaled-abdelalim.netlify.app](https://khaled-abdelalim.netlify.app)
+- 👨‍💻 All of my projects are available at [https://www.khaledabdelalim.online](https://www.khaledabdelalim.online)
 
 - 📫 How to reach me **khaled.korany2004@gmail.com**
 
