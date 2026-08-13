@@ -5,7 +5,7 @@
   <img height="200" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" />
 </div>
 
-- 👨‍💻 All of my projects are available at <a href="https://www.khaledabdelalim.online" target="_blank" rel="noopener noreferrer">https://www.khaledabdelalim.online</a>
+- 👨‍💻 All of my projects are available at <a href="https://www.khaledabdelalim.online" target="_blank" rel="noopener noreferrer">https://www.khaled-abdelalim.netlify.app</a>
 
 - 📫 How to reach me **khaled.korany2004@gmail.com**
 
